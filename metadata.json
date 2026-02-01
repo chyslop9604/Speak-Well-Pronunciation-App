@@ -1,0 +1,7 @@
+{
+  "name": "Speak Well by Power English",
+  "description": "An interactive tool for non-native English speakers to improve their pronunciation through real-time feedback using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
